@@ -2,7 +2,7 @@
 
 ### void function
 
-'''c++
+```c++
 #include<iostream>
 using namespace std;
 void hbd(string name,int age);
@@ -11,14 +11,15 @@ int main(){
 }
 void hbd(string name , int age){
 	cout<<"HBD "<<name<<age;
-}'''
+}
+```
 
 ---
 
-'''Output
+```Output
 HBD Elon 18
 [Program finished]
-'''
+```
 
 
 ---
