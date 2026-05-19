@@ -11,8 +11,7 @@ int main(){
 }
 void hbd(string name , int age){
 	cout<<"HBD "<<name<<age;
-}
-'''
+}'''
 
 ---
 
