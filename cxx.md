@@ -2,7 +2,7 @@
 
 ### void function
 
-'''cpp
+'''c++
 #include<iostream>
 using namespace std;
 void hbd(string name,int age);
